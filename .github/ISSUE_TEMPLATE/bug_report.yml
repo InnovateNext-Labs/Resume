@@ -38,9 +38,6 @@ body:
       options:
         - Android
         - iPhone
-        - Linux
-        - Chrome
-        - Windows
   - type: checkboxes
     id: terms
     attributes:
